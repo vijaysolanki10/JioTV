@@ -1,6 +1,5 @@
 <?php
 
-error_reporting(0);
 $DARK_SIDE = "doctor_strange";
 $WHITE_SIDE = "jitendraunatti";
 if (!is_dir($DARK_SIDE)) {
@@ -427,3 +426,4 @@ function jitendraunatti($THANOS, $ROLEX, $NICK_FURY, $KANG, $PETER_PARKER, $CHAV
         )
     );
 }
+
